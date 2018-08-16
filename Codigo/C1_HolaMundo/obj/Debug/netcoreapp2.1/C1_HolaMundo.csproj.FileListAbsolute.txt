@@ -1,0 +1,11 @@
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\ProgramacionEstructurada\Codigo\C1_HolaMundo\bin\Debug\netcoreapp2.1\C1_HolaMundo.deps.json
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\ProgramacionEstructurada\Codigo\C1_HolaMundo\bin\Debug\netcoreapp2.1\C1_HolaMundo.runtimeconfig.json
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\ProgramacionEstructurada\Codigo\C1_HolaMundo\bin\Debug\netcoreapp2.1\C1_HolaMundo.runtimeconfig.dev.json
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\ProgramacionEstructurada\Codigo\C1_HolaMundo\bin\Debug\netcoreapp2.1\C1_HolaMundo.dll
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\ProgramacionEstructurada\Codigo\C1_HolaMundo\bin\Debug\netcoreapp2.1\C1_HolaMundo.pdb
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\ProgramacionEstructurada\Codigo\C1_HolaMundo\obj\Debug\netcoreapp2.1\C1_HolaMundo.csprojAssemblyReference.cache
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\ProgramacionEstructurada\Codigo\C1_HolaMundo\obj\Debug\netcoreapp2.1\C1_HolaMundo.csproj.CoreCompileInputs.cache
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\ProgramacionEstructurada\Codigo\C1_HolaMundo\obj\Debug\netcoreapp2.1\C1_HolaMundo.AssemblyInfoInputs.cache
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\ProgramacionEstructurada\Codigo\C1_HolaMundo\obj\Debug\netcoreapp2.1\C1_HolaMundo.AssemblyInfo.cs
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\ProgramacionEstructurada\Codigo\C1_HolaMundo\obj\Debug\netcoreapp2.1\C1_HolaMundo.dll
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\ProgramacionEstructurada\Codigo\C1_HolaMundo\obj\Debug\netcoreapp2.1\C1_HolaMundo.pdb
