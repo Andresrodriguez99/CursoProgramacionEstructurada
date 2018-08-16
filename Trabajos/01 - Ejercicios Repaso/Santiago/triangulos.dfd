@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+35
+"ingrese los lados de su triangulo"
+5
+1
+5
+A,B,C
+7
+0
+1
+11
+A=B AND B=C
+7
+0
+1
+10
+A=B OR A=C
+4
+1
+26
+"es un triangulo escaleno"
+13
+4
+1
+26
+"es un triangulo isoceles"
+13
+13
+4
+1
+28
+"es un triangulo equilatero"
+13
+1

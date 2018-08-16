@@ -1,0 +1,77 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+47
+'ingrese medida del cateto opuesto y adyacente'
+5
+1
+3
+x,y
+6
+2
+1
+h
+9
+x^2 + y^2
+4
+hipo
+6
+sqrt h
+4
+1
+4
+hipo
+7
+0
+1
+3
+x=y
+7
+0
+1
+6
+x=hipo
+7
+0
+1
+6
+y=hipo
+4
+1
+20
+'Triangulo escaleno'
+13
+4
+1
+22
+'Triangulos isosceles'
+13
+13
+4
+1
+21
+'Triangulo isosceles'
+13
+13
+7
+0
+1
+6
+x=hipo
+4
+1
+21
+'Triangulo isosceles'
+13
+4
+1
+22
+'Triangulo equilatero'
+13
+13
+1

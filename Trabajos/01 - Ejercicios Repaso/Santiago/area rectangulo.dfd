@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+32
+"ingrese el lado del rectangulo"
+5
+1
+1
+A
+4
+1
+32
+"ingrese la base del rectangulo"
+5
+1
+1
+B
+6
+1
+1
+C
+3
+A*B
+4
+1
+7
+C,"cm2"
+1
