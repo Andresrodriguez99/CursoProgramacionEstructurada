@@ -1,0 +1,11 @@
+Z:\ProgramacionEstructurada\Codigo\ConvertYConsole\bin\Debug\netcoreapp2.1\ConvertYConsole.deps.json
+Z:\ProgramacionEstructurada\Codigo\ConvertYConsole\bin\Debug\netcoreapp2.1\ConvertYConsole.runtimeconfig.json
+Z:\ProgramacionEstructurada\Codigo\ConvertYConsole\bin\Debug\netcoreapp2.1\ConvertYConsole.runtimeconfig.dev.json
+Z:\ProgramacionEstructurada\Codigo\ConvertYConsole\bin\Debug\netcoreapp2.1\ConvertYConsole.dll
+Z:\ProgramacionEstructurada\Codigo\ConvertYConsole\bin\Debug\netcoreapp2.1\ConvertYConsole.pdb
+Z:\ProgramacionEstructurada\Codigo\ConvertYConsole\obj\Debug\netcoreapp2.1\ConvertYConsole.csprojAssemblyReference.cache
+Z:\ProgramacionEstructurada\Codigo\ConvertYConsole\obj\Debug\netcoreapp2.1\ConvertYConsole.csproj.CoreCompileInputs.cache
+Z:\ProgramacionEstructurada\Codigo\ConvertYConsole\obj\Debug\netcoreapp2.1\ConvertYConsole.AssemblyInfoInputs.cache
+Z:\ProgramacionEstructurada\Codigo\ConvertYConsole\obj\Debug\netcoreapp2.1\ConvertYConsole.AssemblyInfo.cs
+Z:\ProgramacionEstructurada\Codigo\ConvertYConsole\obj\Debug\netcoreapp2.1\ConvertYConsole.dll
+Z:\ProgramacionEstructurada\Codigo\ConvertYConsole\obj\Debug\netcoreapp2.1\ConvertYConsole.pdb

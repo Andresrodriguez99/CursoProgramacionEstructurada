@@ -1,0 +1,11 @@
+Z:\ProgramacionEstructurada\Codigo\Decisiones\bin\Debug\netcoreapp2.1\Decisiones.deps.json
+Z:\ProgramacionEstructurada\Codigo\Decisiones\bin\Debug\netcoreapp2.1\Decisiones.runtimeconfig.json
+Z:\ProgramacionEstructurada\Codigo\Decisiones\bin\Debug\netcoreapp2.1\Decisiones.runtimeconfig.dev.json
+Z:\ProgramacionEstructurada\Codigo\Decisiones\bin\Debug\netcoreapp2.1\Decisiones.dll
+Z:\ProgramacionEstructurada\Codigo\Decisiones\bin\Debug\netcoreapp2.1\Decisiones.pdb
+Z:\ProgramacionEstructurada\Codigo\Decisiones\obj\Debug\netcoreapp2.1\Decisiones.csprojAssemblyReference.cache
+Z:\ProgramacionEstructurada\Codigo\Decisiones\obj\Debug\netcoreapp2.1\Decisiones.csproj.CoreCompileInputs.cache
+Z:\ProgramacionEstructurada\Codigo\Decisiones\obj\Debug\netcoreapp2.1\Decisiones.AssemblyInfoInputs.cache
+Z:\ProgramacionEstructurada\Codigo\Decisiones\obj\Debug\netcoreapp2.1\Decisiones.AssemblyInfo.cs
+Z:\ProgramacionEstructurada\Codigo\Decisiones\obj\Debug\netcoreapp2.1\Decisiones.dll
+Z:\ProgramacionEstructurada\Codigo\Decisiones\obj\Debug\netcoreapp2.1\Decisiones.pdb

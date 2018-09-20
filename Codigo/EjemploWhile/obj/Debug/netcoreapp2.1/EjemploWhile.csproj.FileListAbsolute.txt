@@ -1,0 +1,11 @@
+Z:\ProgramacionEstructurada\Codigo\EjemploWhile\bin\Debug\netcoreapp2.1\EjemploWhile.deps.json
+Z:\ProgramacionEstructurada\Codigo\EjemploWhile\bin\Debug\netcoreapp2.1\EjemploWhile.runtimeconfig.json
+Z:\ProgramacionEstructurada\Codigo\EjemploWhile\bin\Debug\netcoreapp2.1\EjemploWhile.runtimeconfig.dev.json
+Z:\ProgramacionEstructurada\Codigo\EjemploWhile\bin\Debug\netcoreapp2.1\EjemploWhile.dll
+Z:\ProgramacionEstructurada\Codigo\EjemploWhile\bin\Debug\netcoreapp2.1\EjemploWhile.pdb
+Z:\ProgramacionEstructurada\Codigo\EjemploWhile\obj\Debug\netcoreapp2.1\EjemploWhile.csprojAssemblyReference.cache
+Z:\ProgramacionEstructurada\Codigo\EjemploWhile\obj\Debug\netcoreapp2.1\EjemploWhile.csproj.CoreCompileInputs.cache
+Z:\ProgramacionEstructurada\Codigo\EjemploWhile\obj\Debug\netcoreapp2.1\EjemploWhile.AssemblyInfoInputs.cache
+Z:\ProgramacionEstructurada\Codigo\EjemploWhile\obj\Debug\netcoreapp2.1\EjemploWhile.AssemblyInfo.cs
+Z:\ProgramacionEstructurada\Codigo\EjemploWhile\obj\Debug\netcoreapp2.1\EjemploWhile.dll
+Z:\ProgramacionEstructurada\Codigo\EjemploWhile\obj\Debug\netcoreapp2.1\EjemploWhile.pdb
