@@ -1,0 +1,11 @@
+D:\Proyectos\tarea2\3ro\bin\Debug\netcoreapp2.1\3ro.deps.json
+D:\Proyectos\tarea2\3ro\bin\Debug\netcoreapp2.1\3ro.runtimeconfig.json
+D:\Proyectos\tarea2\3ro\bin\Debug\netcoreapp2.1\3ro.runtimeconfig.dev.json
+D:\Proyectos\tarea2\3ro\bin\Debug\netcoreapp2.1\3ro.dll
+D:\Proyectos\tarea2\3ro\bin\Debug\netcoreapp2.1\3ro.pdb
+D:\Proyectos\tarea2\3ro\obj\Debug\netcoreapp2.1\3ro.csprojAssemblyReference.cache
+D:\Proyectos\tarea2\3ro\obj\Debug\netcoreapp2.1\3ro.csproj.CoreCompileInputs.cache
+D:\Proyectos\tarea2\3ro\obj\Debug\netcoreapp2.1\3ro.AssemblyInfoInputs.cache
+D:\Proyectos\tarea2\3ro\obj\Debug\netcoreapp2.1\3ro.AssemblyInfo.cs
+D:\Proyectos\tarea2\3ro\obj\Debug\netcoreapp2.1\3ro.dll
+D:\Proyectos\tarea2\3ro\obj\Debug\netcoreapp2.1\3ro.pdb

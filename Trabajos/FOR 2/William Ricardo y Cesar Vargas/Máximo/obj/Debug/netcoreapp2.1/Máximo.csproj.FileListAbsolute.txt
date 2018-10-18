@@ -1,0 +1,11 @@
+C:\Users\Willian\Máximo\bin\Debug\netcoreapp2.1\Máximo.deps.json
+C:\Users\Willian\Máximo\bin\Debug\netcoreapp2.1\Máximo.runtimeconfig.json
+C:\Users\Willian\Máximo\bin\Debug\netcoreapp2.1\Máximo.runtimeconfig.dev.json
+C:\Users\Willian\Máximo\bin\Debug\netcoreapp2.1\Máximo.dll
+C:\Users\Willian\Máximo\bin\Debug\netcoreapp2.1\Máximo.pdb
+C:\Users\Willian\Máximo\obj\Debug\netcoreapp2.1\Máximo.csprojAssemblyReference.cache
+C:\Users\Willian\Máximo\obj\Debug\netcoreapp2.1\Máximo.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Máximo\obj\Debug\netcoreapp2.1\Máximo.AssemblyInfoInputs.cache
+C:\Users\Willian\Máximo\obj\Debug\netcoreapp2.1\Máximo.AssemblyInfo.cs
+C:\Users\Willian\Máximo\obj\Debug\netcoreapp2.1\Máximo.dll
+C:\Users\Willian\Máximo\obj\Debug\netcoreapp2.1\Máximo.pdb

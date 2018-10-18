@@ -1,0 +1,33 @@
+C:\Users\jhona\fibonacci\bin\Debug\netcoreapp2.1\fibonacci.deps.json
+C:\Users\jhona\fibonacci\bin\Debug\netcoreapp2.1\fibonacci.runtimeconfig.json
+C:\Users\jhona\fibonacci\bin\Debug\netcoreapp2.1\fibonacci.runtimeconfig.dev.json
+C:\Users\jhona\fibonacci\bin\Debug\netcoreapp2.1\fibonacci.dll
+C:\Users\jhona\fibonacci\bin\Debug\netcoreapp2.1\fibonacci.pdb
+C:\Users\jhona\fibonacci\obj\Debug\netcoreapp2.1\fibonacci.csprojAssemblyReference.cache
+C:\Users\jhona\fibonacci\obj\Debug\netcoreapp2.1\fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\jhona\fibonacci\obj\Debug\netcoreapp2.1\fibonacci.AssemblyInfoInputs.cache
+C:\Users\jhona\fibonacci\obj\Debug\netcoreapp2.1\fibonacci.AssemblyInfo.cs
+C:\Users\jhona\fibonacci\obj\Debug\netcoreapp2.1\fibonacci.dll
+C:\Users\jhona\fibonacci\obj\Debug\netcoreapp2.1\fibonacci.pdb
+H:\programacion\fibonacci\bin\Debug\netcoreapp2.1\fibonacci.deps.json
+H:\programacion\fibonacci\bin\Debug\netcoreapp2.1\fibonacci.runtimeconfig.json
+H:\programacion\fibonacci\bin\Debug\netcoreapp2.1\fibonacci.runtimeconfig.dev.json
+H:\programacion\fibonacci\bin\Debug\netcoreapp2.1\fibonacci.dll
+H:\programacion\fibonacci\bin\Debug\netcoreapp2.1\fibonacci.pdb
+H:\programacion\fibonacci\obj\Debug\netcoreapp2.1\fibonacci.csprojAssemblyReference.cache
+H:\programacion\fibonacci\obj\Debug\netcoreapp2.1\fibonacci.csproj.CoreCompileInputs.cache
+H:\programacion\fibonacci\obj\Debug\netcoreapp2.1\fibonacci.AssemblyInfoInputs.cache
+H:\programacion\fibonacci\obj\Debug\netcoreapp2.1\fibonacci.AssemblyInfo.cs
+H:\programacion\fibonacci\obj\Debug\netcoreapp2.1\fibonacci.dll
+H:\programacion\fibonacci\obj\Debug\netcoreapp2.1\fibonacci.pdb
+Z:\ProgramacionEstructurada\Trabajos\FOR 2\Dayanna\programacion\fibonacci\bin\Debug\netcoreapp2.1\fibonacci.deps.json
+Z:\ProgramacionEstructurada\Trabajos\FOR 2\Dayanna\programacion\fibonacci\bin\Debug\netcoreapp2.1\fibonacci.runtimeconfig.json
+Z:\ProgramacionEstructurada\Trabajos\FOR 2\Dayanna\programacion\fibonacci\bin\Debug\netcoreapp2.1\fibonacci.runtimeconfig.dev.json
+Z:\ProgramacionEstructurada\Trabajos\FOR 2\Dayanna\programacion\fibonacci\bin\Debug\netcoreapp2.1\fibonacci.dll
+Z:\ProgramacionEstructurada\Trabajos\FOR 2\Dayanna\programacion\fibonacci\bin\Debug\netcoreapp2.1\fibonacci.pdb
+Z:\ProgramacionEstructurada\Trabajos\FOR 2\Dayanna\programacion\fibonacci\obj\Debug\netcoreapp2.1\fibonacci.csprojAssemblyReference.cache
+Z:\ProgramacionEstructurada\Trabajos\FOR 2\Dayanna\programacion\fibonacci\obj\Debug\netcoreapp2.1\fibonacci.csproj.CoreCompileInputs.cache
+Z:\ProgramacionEstructurada\Trabajos\FOR 2\Dayanna\programacion\fibonacci\obj\Debug\netcoreapp2.1\fibonacci.AssemblyInfoInputs.cache
+Z:\ProgramacionEstructurada\Trabajos\FOR 2\Dayanna\programacion\fibonacci\obj\Debug\netcoreapp2.1\fibonacci.AssemblyInfo.cs
+Z:\ProgramacionEstructurada\Trabajos\FOR 2\Dayanna\programacion\fibonacci\obj\Debug\netcoreapp2.1\fibonacci.dll
+Z:\ProgramacionEstructurada\Trabajos\FOR 2\Dayanna\programacion\fibonacci\obj\Debug\netcoreapp2.1\fibonacci.pdb

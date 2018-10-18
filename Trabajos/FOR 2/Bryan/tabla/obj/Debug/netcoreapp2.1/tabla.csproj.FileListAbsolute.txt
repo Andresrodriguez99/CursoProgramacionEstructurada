@@ -1,0 +1,11 @@
+C:\Users\jhona\tabla\bin\Debug\netcoreapp2.1\tabla.deps.json
+C:\Users\jhona\tabla\bin\Debug\netcoreapp2.1\tabla.runtimeconfig.json
+C:\Users\jhona\tabla\bin\Debug\netcoreapp2.1\tabla.runtimeconfig.dev.json
+C:\Users\jhona\tabla\bin\Debug\netcoreapp2.1\tabla.dll
+C:\Users\jhona\tabla\bin\Debug\netcoreapp2.1\tabla.pdb
+C:\Users\jhona\tabla\obj\Debug\netcoreapp2.1\tabla.csprojAssemblyReference.cache
+C:\Users\jhona\tabla\obj\Debug\netcoreapp2.1\tabla.csproj.CoreCompileInputs.cache
+C:\Users\jhona\tabla\obj\Debug\netcoreapp2.1\tabla.AssemblyInfoInputs.cache
+C:\Users\jhona\tabla\obj\Debug\netcoreapp2.1\tabla.AssemblyInfo.cs
+C:\Users\jhona\tabla\obj\Debug\netcoreapp2.1\tabla.dll
+C:\Users\jhona\tabla\obj\Debug\netcoreapp2.1\tabla.pdb

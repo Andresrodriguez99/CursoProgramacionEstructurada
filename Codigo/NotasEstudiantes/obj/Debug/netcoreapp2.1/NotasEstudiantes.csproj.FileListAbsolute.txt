@@ -1,0 +1,11 @@
+Z:\ProgramacionEstructurada\Codigo\NotasEstudiantes\bin\Debug\netcoreapp2.1\NotasEstudiantes.deps.json
+Z:\ProgramacionEstructurada\Codigo\NotasEstudiantes\bin\Debug\netcoreapp2.1\NotasEstudiantes.runtimeconfig.json
+Z:\ProgramacionEstructurada\Codigo\NotasEstudiantes\bin\Debug\netcoreapp2.1\NotasEstudiantes.runtimeconfig.dev.json
+Z:\ProgramacionEstructurada\Codigo\NotasEstudiantes\bin\Debug\netcoreapp2.1\NotasEstudiantes.dll
+Z:\ProgramacionEstructurada\Codigo\NotasEstudiantes\bin\Debug\netcoreapp2.1\NotasEstudiantes.pdb
+Z:\ProgramacionEstructurada\Codigo\NotasEstudiantes\obj\Debug\netcoreapp2.1\NotasEstudiantes.csprojAssemblyReference.cache
+Z:\ProgramacionEstructurada\Codigo\NotasEstudiantes\obj\Debug\netcoreapp2.1\NotasEstudiantes.csproj.CoreCompileInputs.cache
+Z:\ProgramacionEstructurada\Codigo\NotasEstudiantes\obj\Debug\netcoreapp2.1\NotasEstudiantes.AssemblyInfoInputs.cache
+Z:\ProgramacionEstructurada\Codigo\NotasEstudiantes\obj\Debug\netcoreapp2.1\NotasEstudiantes.AssemblyInfo.cs
+Z:\ProgramacionEstructurada\Codigo\NotasEstudiantes\obj\Debug\netcoreapp2.1\NotasEstudiantes.dll
+Z:\ProgramacionEstructurada\Codigo\NotasEstudiantes\obj\Debug\netcoreapp2.1\NotasEstudiantes.pdb

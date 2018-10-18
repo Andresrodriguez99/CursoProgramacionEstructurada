@@ -1,0 +1,11 @@
+C:\Users\jhona\fibonacci\bin\Debug\netcoreapp2.1\fibonacci.deps.json
+C:\Users\jhona\fibonacci\bin\Debug\netcoreapp2.1\fibonacci.runtimeconfig.json
+C:\Users\jhona\fibonacci\bin\Debug\netcoreapp2.1\fibonacci.runtimeconfig.dev.json
+C:\Users\jhona\fibonacci\bin\Debug\netcoreapp2.1\fibonacci.dll
+C:\Users\jhona\fibonacci\bin\Debug\netcoreapp2.1\fibonacci.pdb
+C:\Users\jhona\fibonacci\obj\Debug\netcoreapp2.1\fibonacci.csprojAssemblyReference.cache
+C:\Users\jhona\fibonacci\obj\Debug\netcoreapp2.1\fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\jhona\fibonacci\obj\Debug\netcoreapp2.1\fibonacci.AssemblyInfoInputs.cache
+C:\Users\jhona\fibonacci\obj\Debug\netcoreapp2.1\fibonacci.AssemblyInfo.cs
+C:\Users\jhona\fibonacci\obj\Debug\netcoreapp2.1\fibonacci.dll
+C:\Users\jhona\fibonacci\obj\Debug\netcoreapp2.1\fibonacci.pdb

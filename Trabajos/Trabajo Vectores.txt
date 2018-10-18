@@ -1,0 +1,15 @@
+-Generar un vector de numeros aleatorios y obtener la suma de los valores pares
+
+-Generar un vector de numeros aleatorios y obtener la suma de los valores impares
+
+-Generar un vector de numeros aleatorios y obtener la suma de las posiciones pares
+
+-Generar un vector de numeros aleatorios y obtener la suma de las posiciones impares
+
+-Generar un programa que llene un vector con los primeros 100 numeros de las serie fibonacci
+
+-Generar un programa que almacene en un vector las letras de una palabra y determine si es capicua
+
+-Generar un programa que llene un vector de numeros aleatorios y genere otro vector ordenado de menor a mayor
+
+-Generar un programa que llene un vector de numeros aleatorios y lo ordene de menor a mayor (en el mismo vector) (Metodo de Burbuja, Inserción, Selección)

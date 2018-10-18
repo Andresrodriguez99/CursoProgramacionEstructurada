@@ -1,0 +1,11 @@
+Z:\ProgramacionEstructurada\Codigo\DemoVector001\bin\Debug\netcoreapp2.1\DemoVector001.deps.json
+Z:\ProgramacionEstructurada\Codigo\DemoVector001\bin\Debug\netcoreapp2.1\DemoVector001.runtimeconfig.json
+Z:\ProgramacionEstructurada\Codigo\DemoVector001\bin\Debug\netcoreapp2.1\DemoVector001.runtimeconfig.dev.json
+Z:\ProgramacionEstructurada\Codigo\DemoVector001\bin\Debug\netcoreapp2.1\DemoVector001.dll
+Z:\ProgramacionEstructurada\Codigo\DemoVector001\bin\Debug\netcoreapp2.1\DemoVector001.pdb
+Z:\ProgramacionEstructurada\Codigo\DemoVector001\obj\Debug\netcoreapp2.1\DemoVector001.csprojAssemblyReference.cache
+Z:\ProgramacionEstructurada\Codigo\DemoVector001\obj\Debug\netcoreapp2.1\DemoVector001.csproj.CoreCompileInputs.cache
+Z:\ProgramacionEstructurada\Codigo\DemoVector001\obj\Debug\netcoreapp2.1\DemoVector001.AssemblyInfoInputs.cache
+Z:\ProgramacionEstructurada\Codigo\DemoVector001\obj\Debug\netcoreapp2.1\DemoVector001.AssemblyInfo.cs
+Z:\ProgramacionEstructurada\Codigo\DemoVector001\obj\Debug\netcoreapp2.1\DemoVector001.dll
+Z:\ProgramacionEstructurada\Codigo\DemoVector001\obj\Debug\netcoreapp2.1\DemoVector001.pdb

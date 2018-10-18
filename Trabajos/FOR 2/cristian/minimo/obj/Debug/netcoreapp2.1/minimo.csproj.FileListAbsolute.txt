@@ -1,0 +1,11 @@
+C:\Users\jhona\minimo\bin\Debug\netcoreapp2.1\minimo.deps.json
+C:\Users\jhona\minimo\bin\Debug\netcoreapp2.1\minimo.runtimeconfig.json
+C:\Users\jhona\minimo\bin\Debug\netcoreapp2.1\minimo.runtimeconfig.dev.json
+C:\Users\jhona\minimo\bin\Debug\netcoreapp2.1\minimo.dll
+C:\Users\jhona\minimo\bin\Debug\netcoreapp2.1\minimo.pdb
+C:\Users\jhona\minimo\obj\Debug\netcoreapp2.1\minimo.csprojAssemblyReference.cache
+C:\Users\jhona\minimo\obj\Debug\netcoreapp2.1\minimo.csproj.CoreCompileInputs.cache
+C:\Users\jhona\minimo\obj\Debug\netcoreapp2.1\minimo.AssemblyInfoInputs.cache
+C:\Users\jhona\minimo\obj\Debug\netcoreapp2.1\minimo.AssemblyInfo.cs
+C:\Users\jhona\minimo\obj\Debug\netcoreapp2.1\minimo.dll
+C:\Users\jhona\minimo\obj\Debug\netcoreapp2.1\minimo.pdb

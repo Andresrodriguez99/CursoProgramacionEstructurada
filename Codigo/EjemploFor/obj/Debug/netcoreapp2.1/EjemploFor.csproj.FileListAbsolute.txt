@@ -1,0 +1,11 @@
+Z:\ProgramacionEstructurada\Codigo\EjemploFor\bin\Debug\netcoreapp2.1\EjemploFor.deps.json
+Z:\ProgramacionEstructurada\Codigo\EjemploFor\bin\Debug\netcoreapp2.1\EjemploFor.runtimeconfig.json
+Z:\ProgramacionEstructurada\Codigo\EjemploFor\bin\Debug\netcoreapp2.1\EjemploFor.runtimeconfig.dev.json
+Z:\ProgramacionEstructurada\Codigo\EjemploFor\bin\Debug\netcoreapp2.1\EjemploFor.dll
+Z:\ProgramacionEstructurada\Codigo\EjemploFor\bin\Debug\netcoreapp2.1\EjemploFor.pdb
+Z:\ProgramacionEstructurada\Codigo\EjemploFor\obj\Debug\netcoreapp2.1\EjemploFor.csprojAssemblyReference.cache
+Z:\ProgramacionEstructurada\Codigo\EjemploFor\obj\Debug\netcoreapp2.1\EjemploFor.csproj.CoreCompileInputs.cache
+Z:\ProgramacionEstructurada\Codigo\EjemploFor\obj\Debug\netcoreapp2.1\EjemploFor.AssemblyInfoInputs.cache
+Z:\ProgramacionEstructurada\Codigo\EjemploFor\obj\Debug\netcoreapp2.1\EjemploFor.AssemblyInfo.cs
+Z:\ProgramacionEstructurada\Codigo\EjemploFor\obj\Debug\netcoreapp2.1\EjemploFor.dll
+Z:\ProgramacionEstructurada\Codigo\EjemploFor\obj\Debug\netcoreapp2.1\EjemploFor.pdb

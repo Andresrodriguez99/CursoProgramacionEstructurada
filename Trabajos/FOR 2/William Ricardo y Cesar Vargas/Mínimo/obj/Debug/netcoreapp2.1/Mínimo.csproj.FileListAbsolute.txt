@@ -1,0 +1,11 @@
+C:\Users\Willian\Mínimo\bin\Debug\netcoreapp2.1\Mínimo.deps.json
+C:\Users\Willian\Mínimo\bin\Debug\netcoreapp2.1\Mínimo.runtimeconfig.json
+C:\Users\Willian\Mínimo\bin\Debug\netcoreapp2.1\Mínimo.runtimeconfig.dev.json
+C:\Users\Willian\Mínimo\bin\Debug\netcoreapp2.1\Mínimo.dll
+C:\Users\Willian\Mínimo\bin\Debug\netcoreapp2.1\Mínimo.pdb
+C:\Users\Willian\Mínimo\obj\Debug\netcoreapp2.1\Mínimo.csprojAssemblyReference.cache
+C:\Users\Willian\Mínimo\obj\Debug\netcoreapp2.1\Mínimo.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Mínimo\obj\Debug\netcoreapp2.1\Mínimo.AssemblyInfoInputs.cache
+C:\Users\Willian\Mínimo\obj\Debug\netcoreapp2.1\Mínimo.AssemblyInfo.cs
+C:\Users\Willian\Mínimo\obj\Debug\netcoreapp2.1\Mínimo.dll
+C:\Users\Willian\Mínimo\obj\Debug\netcoreapp2.1\Mínimo.pdb
